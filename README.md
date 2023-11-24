@@ -1,10 +1,12 @@
 # Question Paper Generator Application
 
-This repository contains the source code for a Question Paper Generator application. The application is designed to store a variety of questions in a Question Store and generate question papers based on specified criteria.
+This repository contains the source code for a user-friendly Question Paper Generator application. The application is designed to store a variety of questions in a Question Store and generate question papers based on specified criteria. Even non-technical users can easily add questions to the system.
 
 ## Features
 
 - **Question Store:** The application stores questions with attributes such as question text, subject, topic, difficulty, and marks.
+
+- **User-Friendly Design:** The code is structured to be easily accessible for non-technical users, allowing them to add questions effortlessly.
 
 - **Question Paper Generation:** The Question Paper Generator can create a question paper based on the total marks and the distribution of marks according to difficulty levels.
 
@@ -49,15 +51,16 @@ Follow these steps to set up and run the Question Paper Generator application on
 6. **Access the Application:**
    - Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to access the Question Paper Generator application.
 
-### Screenshots of running application
-![Screenshot (170)](https://github.com/Adityagndusharma/QuestionGenerator/assets/96620736/cac33355-7766-4977-bd4f-9f51e69a3c8d)
+## Screenshots
 
-![Screenshot (171)](https://github.com/Adityagndusharma/QuestionGenerator/assets/96620736/23ea1d66-2132-40bc-8117-a4d8b2935a8b)
+![Screenshot (170)](https://github.com/Adityagndusharma/QuestionGenerator/assets/96620736/3725c6ee-d9cd-42aa-82e8-feb21479161e)
+
+![Screenshot (171)](https://github.com/Adityagndusharma/QuestionGenerator/assets/96620736/3d234bd7-907e-4299-84dc-9e9a43b9be1d)
 
 
 ## Usage
 
 - Use the Question Paper Generator to input questions into the Question Store.
 - Specify the total marks and the distribution of marks based on difficulty levels.
-- Generate a question paper based on the provided criteria.
+- Easy questions are worth 2 marks, medium questions are worth 5 marks, and hard questions are worth 10 marks.
 
