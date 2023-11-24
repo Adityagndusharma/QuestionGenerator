@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Question Paper Generator</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <input type="number" id="marksInput" placeholder="Enter total marks" />
+    <input type="number" id="easy" placeholder="Enter number of easy questions" />
+    <input type="number" id="medium" placeholder="Enter number of medium questions" />
+    <input type="number" id="hard" placeholder="Enter number of difficult questions" />
+    <button onclick="generatePaper()">Generate Question Paper</button>
+    <button onclick="printQuestions()">Print Question Paper</button>
+    <div id="questions"></div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

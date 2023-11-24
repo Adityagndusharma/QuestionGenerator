@@ -1,0 +1,64 @@
+{
+    "questions": [
+      {
+        "id": 11,
+        "difficulty": "hard",
+        "text": "Explain Heisenberg's Uncertainty Principle.",
+        "marks": 10
+      },
+      {
+        "id": 12,
+        "difficulty": "hard",
+        "text": "Solve the differential equation: dy/dx = 2x.",
+        "marks": 10
+      },
+      {
+        "id": 13,
+        "difficulty": "hard",
+        "text": "What is the process of nuclear fusion?",
+        "marks": 10
+      },
+      {
+        "id": 14,
+        "difficulty": "hard",
+        "text": "Discuss the concept of artificial intelligence.",
+        "marks": 10
+      },
+      {
+        "id": 15,
+        "difficulty": "hard",
+        "text": "What is the role of dark matter in the universe?",
+        "marks": 10
+      },
+      {
+        "id": 26,
+        "difficulty": "hard",
+        "text": "Discuss the implications of quantum entanglement.",
+        "marks": 10
+      },
+      {
+        "id": 27,
+        "difficulty": "hard",
+        "text": "What is the role of the Higgs boson in particle physics?",
+        "marks": 10
+      },
+      {
+        "id": 28,
+        "difficulty": "hard",
+        "text": "Solve the integral: ∫(3x^2 + 2)dx.",
+        "marks": 10
+      },
+      {
+        "id": 29,
+        "difficulty": "hard",
+        "text": "Discuss the impact of climate change on biodiversity.",
+        "marks": 10
+      },
+      {
+        "id": 30,
+        "difficulty": "hard",
+        "text": "What is the role of the amygdala in the human brain?",
+        "marks": 10
+      }
+    ]
+  }

@@ -1,0 +1,124 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "difficulty": "easy",
+        "text": "What is the capital of France?",
+        "marks": 2
+      },
+      {
+        "id": 2,
+        "difficulty": "easy",
+        "text": "Calculate 5 + 8.",
+        "marks": 2
+      },
+      {
+        "id": 3,
+        "difficulty": "easy",
+        "text": "Define the term \"HTML.\"",
+        "marks": 2
+      },
+      {
+        "id": 4,
+        "difficulty": "easy",
+        "text": "Who wrote \"Romeo and Juliet\"?",
+        "marks": 2
+      },
+      {
+        "id": 5,
+        "difficulty": "easy",
+        "text": "How many sides does a triangle have?",
+        "marks": 2
+      },
+      {
+        "id": 16,
+        "difficulty": "easy",
+        "text": "What is the square root of 25?",
+        "marks": 2
+      },
+      {
+        "id": 17,
+        "difficulty": "easy",
+        "text": "Who painted the Mona Lisa?",
+        "marks": 2
+      },
+      {
+        "id": 18,
+        "difficulty": "easy",
+        "text": "What is the smallest prime number?",
+        "marks": 2
+      },
+      {
+        "id": 19,
+        "difficulty": "easy",
+        "text": "Name the largest planet in our solar system.",
+        "marks": 2
+      },
+      {
+        "id": 20,
+        "difficulty": "easy",
+        "text": "Define the term \"latitude.\"",
+        "marks": 2
+      },
+      {
+        "id": 31,
+        "difficulty": "easy",
+        "text": "What is the capital of Japan?",
+        "marks": 2
+      },
+      {
+        "id": 32,
+        "difficulty": "easy",
+        "text": "Calculate 9 × 6.",
+        "marks": 2
+      },
+      {
+        "id": 33,
+        "difficulty": "easy",
+        "text": "Define the term \"CSS.\"",
+        "marks": 2
+      },
+      {
+        "id": 34,
+        "difficulty": "easy",
+        "text": "Who wrote \"To Kill a Mockingbird\"?",
+        "marks": 2
+      },
+      {
+        "id": 35,
+        "difficulty": "easy",
+        "text": "How many sides does a hexagon have?",
+        "marks": 2
+      },
+      {
+        "id": 46,
+        "difficulty": "easy",
+        "text": "What is the square root of 49?",
+        "marks": 2
+      },
+      {
+        "id": 47,
+        "difficulty": "easy",
+        "text": "Who painted the Starry Night?",
+        "marks": 2
+      },
+      {
+        "id": 48,
+        "difficulty": "easy",
+        "text": "What is the chemical symbol for gold?",
+        "marks": 2
+      },
+      {
+        "id": 49,
+        "difficulty": "easy",
+        "text": "Name the longest river in the world.",
+        "marks": 2
+      },
+      {
+        "id": 50,
+        "difficulty": "easy",
+        "text": "Define the term \"longitude.\"",
+        "marks": 2
+      }
+    ]
+  }
